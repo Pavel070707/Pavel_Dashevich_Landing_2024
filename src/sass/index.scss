@@ -1,0 +1,23 @@
+@import "../sass/fonts.scss";
+@import "../sass/variables.scss";
+@import "../sass/hader.scss";
+@import "../sass/cdn.scss";
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+html{
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 15px;
+}

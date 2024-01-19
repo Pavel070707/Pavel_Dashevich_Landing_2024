@@ -1,0 +1,21 @@
+{
+  "name": "pavel_dashevich_landing_2024",
+  "description": "",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "devDependencies": {
+    "gulp-concat-css": "^3.1.0",
+    "parcel": "^2.11.0",
+    "sass": "^1.70.0"
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "server": "^1.0.38"
+  }
+}
